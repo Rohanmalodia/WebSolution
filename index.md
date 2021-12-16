@@ -1,39 +1,13 @@
-### Welcome!!
-
-
-
+### Welcome to Statiks!!
+ 
 ### AR/VR Experiences
 
 Following are some experiences you can try in you smartphone.
 
-```markdown
-Syntax highlighted code block
-
- AR/VR Experiences
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-1. [Image Tracking]https://rohanmalodia.github.io/MINDD/
-2. [Model Viewer]https://rohanmalodia.github.io/testwebxr/
-3. [360 Image]https://rohanmalodia.github.io/Images/
+ 
+1. [Image Tracking](https://rohanmalodia.github.io/MINDD/)
+2. [Model Viewer](https://rohanmalodia.github.io/testwebxr/)
+3. [360 Image](https://rohanmalodia.github.io/Images/)
 4. [360 Video]
-5. [AR Phood]
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rohanmalodia/WebSolution/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+5. [AR Phood](https://rohanmalodia.github.io/phood/)
+ 
